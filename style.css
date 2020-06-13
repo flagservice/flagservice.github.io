@@ -19,6 +19,9 @@ h3{
 	height:60px;
 	width:100%;
 }
+#contact{
+	width:80%;
+}
 #flagDays{
 	width:80%;
 }
@@ -45,7 +48,7 @@ h3{
 	margin-left:10%;
 	border-radius: 3px;
 	font-style:bold;
-	font-size:12;
+	font-size:16;
 }
 .nav button:hover{
 	background-color:#fd456b;
